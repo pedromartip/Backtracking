@@ -9,7 +9,7 @@ board again immediately, following the same path), the tour is closed; otherwise
 
 *ALGORISM BACKTRACKING BACK 0/1*
 
-BEGIN
+
 
 	omplirMotxilla(motxilla, motxillaOptima: Motxilla ; objectes: ArrayList<Objecte>; isPlena: boolean) {
 	
@@ -72,11 +72,10 @@ BEGIN
             END
         END
     END
-END
+    
 
 *ALGORISM BACKTRACKING KNIGHT TOUR*
 
-BEGIN
 
 	colocarReina(posiciony, reinas, valorborrado, columnaoriginal : Integer) 
     BEGIN
@@ -163,6 +162,4 @@ BEGIN
             END
         END
     END
-END
-
 
