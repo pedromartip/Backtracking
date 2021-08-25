@@ -7,7 +7,7 @@ the knight visits every square exactly once. If the knight ends on a square
 that is one knight's move from the beginning square (so that it could tour the 
 board again immediately, following the same path), the tour is closed; otherwise, it is open.
 
-====================================================ALGORISM BACKTRACKING BACK 0/1====================================================
+*ALGORISM BACKTRACKING BACK 0/1*
 
 BEGIN
 
@@ -74,7 +74,7 @@ BEGIN
     END
 END
 
-==================================================ALGORISM BACKTRACKING KNIGHT TOUR=====================================================
+*ALGORISM BACKTRACKING KNIGHT TOUR*
 
 BEGIN
 
